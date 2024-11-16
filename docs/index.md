@@ -5,3 +5,7 @@ Hey! It's me, the creator of those Markdown documents. I mostly recorded my note
 ## What content will be in the page?
 
 I am thinking of writing some blogs about the discovery I have made from solving the computer problems, or something new I have found on the internet that it needs to be typed down.
+
+I will start learning how to use [MkDocs](https://www.mkdocs.org/) to write the blog properly after learning web development.
+
+> Edited November 2024
