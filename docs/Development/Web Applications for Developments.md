@@ -1,0 +1,3 @@
+- [draw.io (diagrams.net)](https://app.diagrams.net/)
+- [Excalidraw](https://excalidraw.com/)
+- https://github.com/PrestaShop/PrestaShop

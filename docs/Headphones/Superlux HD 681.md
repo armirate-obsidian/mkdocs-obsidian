@@ -1,3 +1,1 @@
----
-Link: https://www.amazon.com/gp/product/B002GHIPYI?tag=rtings-zz-hp-20&ie=UTF8
----
+[Amazon.com: Superlux HD 681 Dynamic Semi-Open Headphones : Musical Instruments](https://www.amazon.com/gp/product/B002GHIPYI)

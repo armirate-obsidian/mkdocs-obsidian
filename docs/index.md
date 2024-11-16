@@ -1,11 +1,7 @@
-# Obsidian Notes
+# Welcome to my Curiosity Compass
 
-Publish your public notes with MkDocs
+Hey! It's me, the creator of those Markdown documents. I mostly recorded my notes in [Obsidian](https://obsidian.md) and then publish to this Git repository for the knowledge I've gained from over the years I have lived.
 
-## Hello World!
+## What content will be in the page?
 
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+I am thinking of writing some blogs about the discovery I have made from solving the computer problems, or something new I have found on the internet that it needs to be typed down.

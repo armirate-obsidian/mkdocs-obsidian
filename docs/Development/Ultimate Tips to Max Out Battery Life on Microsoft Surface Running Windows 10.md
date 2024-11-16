@@ -1,0 +1,1 @@
+[Ultimate Tips to Max Out Battery Life on Microsoft Surface Running Windows 10 - SurfaceTip](https://surfacetip.com/ultimate-tips-max-surface-pro-4-battery-life/)

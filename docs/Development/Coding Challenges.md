@@ -1,0 +1,2 @@
+- [10,000+ Coding Practice Challenges // Edabit](https://edabit.com/challenges)
+- [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/)

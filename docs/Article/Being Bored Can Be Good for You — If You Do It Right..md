@@ -8,7 +8,7 @@ tags:
 Link: https://time.com/5480002/benefits-of-boredom/
 ---
 
-# ❓ Information
+## ❓ Information
 Type:: Health, Mental Health, Psychology
 Writer:: Jamie Ducharme
 Tags:: #Health/Psychology #Health/Mental
@@ -20,7 +20,7 @@ Written Date:: 2019 Jan 4
 
 ---
 # ❗ Relevant data
-## 🎯 What Is The Objective
+### 🎯 What Is The Objective
 This web site teaches the reader that the boredom can be beneficial to human's creativity problem solving skills.
 ## 📦 Information Resources
 

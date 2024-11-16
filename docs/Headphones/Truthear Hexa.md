@@ -1,1 +1,1 @@
-Link: [TRUTHEAR HEXA 1DD 3BA In-Ear Headphone | SHENZHENAUDIO](https://shenzhenaudio.com/products/truthear-hexa-1dd-3ba-hybird-earphones-with-0-78-2pin-cable-earbuds)
+[TRUTHEAR HEXA 1DD 3BA In-Ear Headphone | SHENZHENAUDIO](https://shenzhenaudio.com/products/truthear-hexa-1dd-3ba-hybird-earphones-with-0-78-2pin-cable-earbuds)
