@@ -1,0 +1,1 @@
+Read [Spy x Family - Code White](🌏%20My%20Resources/Movies/Spy%20x%20Family%20-%20Code%20White.md) in Resource/Movie section.
